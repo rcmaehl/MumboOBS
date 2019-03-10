@@ -3,5 +3,5 @@ While True
 		Send("{SCROLLLOCK ON}")
 	Else
 		Send("{SCROLLLOCK OFF}")
-	WEnd
+	EndIf
 WEnd
